@@ -1,2 +1,2 @@
-# GRU-Discord-Chatbot
-Chatbot on Discord using Grus
+# GRU-Chatbot
+Chatbot using GRUs
